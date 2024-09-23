@@ -11,3 +11,12 @@
 
 [Hacks 4](https://github.com/DouglasChirinos/git_h_4.git)
 
+[Hacks 5](https://github.com/DouglasChirinos/git_h_5.git)
+
+[Hacks 6](https://github.com/DouglasChirinos/git_h_6.git)
+
+[Hacks 7](https://github.com/DouglasChirinos/git_h_7.git)
+
+[Hacks 8](https://github.com/DouglasChirinos/git_h_8.git)
+
+
