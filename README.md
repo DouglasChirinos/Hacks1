@@ -5,7 +5,7 @@
 
 [Hacks 1](https://github.com/DouglasChirinos/git_h_1.git) Enviar un commit al repositorio remoto
 
-[Hacks 2](https://github.com/DouglasChirinos/git_h_2.git)
+[Hacks 2](https://github.com/DouglasChirinos/git_h_2.git) Enviar un directorio vacio al repositorio remoto
 
 [Hacks 3](https://github.com/DouglasChirinos/git_h_3.git)
 
